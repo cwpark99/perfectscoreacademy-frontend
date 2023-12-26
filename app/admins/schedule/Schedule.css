@@ -1,0 +1,11 @@
+.day-format {
+    /* background-color: grey; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    padding-bottom: 80vh;
+
+    border: 2px solid greenyellow;
+}

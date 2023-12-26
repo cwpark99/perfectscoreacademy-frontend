@@ -3,5 +3,9 @@
 import AdminsMenu from '../_components/AdminsMenu';
 
 export default function AdminsHome() {
-    return <AdminsMenu />;
+    return (
+        <div>
+            <AdminsMenu />
+        </div>
+    );
 }

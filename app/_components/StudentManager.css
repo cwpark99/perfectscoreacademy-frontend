@@ -1,0 +1,25 @@
+.student-manager {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    table-layout: fixed;
+    border: 2px solid black;
+    width: 90%;
+}
+
+.header {
+    border: 2px solid black;
+    font-size: 20px;
+    color: black;
+    padding: 20px;
+}
+
+.body {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+}
